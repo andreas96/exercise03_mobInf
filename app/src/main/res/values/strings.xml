@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC Applikation</string>
+    <string name="nfc_button_text">Read NFC tag</string>
+</resources>
